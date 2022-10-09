@@ -7,7 +7,7 @@
 
 A partir de la página web que se te proporciona, debes escribir las reglas CSS necesarias para lograr una página web que tenga el mismo aspecto que la siguiente imagen en la que se muestra la página web visualizada en tres dispositivos con diferentes resoluciones de pantalla:
 
-[![Foo](./img/maquetacion1.png)](http://desarrolloweb.dlsi.ua.es/libros/html-css/img/ejercicios/maquetacion-diseno-adaptable-1.png)
+[![Foo](./img/maquetacion1.png)](./img/maquetacion-diseno-grande-1.png)
 
 Esta página posee un diseño adaptable con tres puntos de ruptura:
 
